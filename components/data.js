@@ -7,7 +7,7 @@ import {
   SunIcon,
 } from "@heroicons/react/24/solid";
 
-import benefitOneImg from "../public/img/benefit-one.png";
+import benefitOneImg from "../public/img/Wallet.jpeg";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
@@ -56,5 +56,4 @@ const benefitTwo = {
   ],
 };
 
-
-export {benefitOne, benefitTwo};
+export { benefitOne, benefitTwo };
