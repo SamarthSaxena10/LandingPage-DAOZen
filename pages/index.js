@@ -1,24 +1,18 @@
 import Head from "next/head";
 import Hero from "../components/hero";
-import Navbar from "../components/navbar";
 import SectionTitle from "../components/sectionTitle";
 
 import { benefitOne, benefitTwo } from "../components/data";
 
 import Benefits from "../components/benefits";
 import Footer from "../components/footer";
-import PopupWidget from "../components/popupWidget";
 
 const Home = () => {
   return (
     <>
       <Head>
         <title>DAO Stats</title>
-
-        <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <Navbar />
       <Hero />
 
       <Benefits data={benefitOne} />
@@ -33,7 +27,6 @@ const Home = () => {
       </SectionTitle>
 
       <Footer />
-      <PopupWidget />
     </>
   );
 };
