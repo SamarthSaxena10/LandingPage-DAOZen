@@ -17,7 +17,7 @@ const Navbar = () => {
                     <span>
                       <Image src="/img/logo.jpeg" width="80" height="100" />
                     </span>
-                    <span>DAO Stats</span>
+                    <span>DAOZen</span>
                   </span>
                 </Link>
 
