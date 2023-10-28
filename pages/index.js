@@ -12,8 +12,6 @@ const Home = () => {
     <>
       <Head>
         <title>DAOZen</title>
-
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Navbar />
