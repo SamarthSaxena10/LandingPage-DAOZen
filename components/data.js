@@ -2,7 +2,7 @@ import benefitOneImg from "../public/img/Analytics.jpeg";
 import benefitTwoImg from "../public/img/Wallet.jpeg";
 
 const benefitOne = {
-  title: "Specific Wallet transaction",
+  title: "Specific Wallet Transaction",
   desc: "You can use enter any Wallet Address with Contract Address & you are able to get full transaction details on a single click",
   image: benefitOneImg,
 };
