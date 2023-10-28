@@ -9,7 +9,7 @@ const benefitOne = {
 
 const benefitTwo = {
   title: "NFT Holding and Transfers",
-  desc: "You can fetch all NFT Holdings with it's previous transactions providing with the contract address ",
+  desc: "You can fetch all NFT Holdings with it's previous transactions providing with the contract address with token Metadata",
   image: benefitTwoImg,
 };
 
