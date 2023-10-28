@@ -7,8 +7,6 @@ import { benefitOne, benefitTwo } from "../components/data";
 import Benefits from "../components/benefits";
 import Footer from "../components/footer";
 
-import PopupWidget from "../components/popupWidget";
-
 const Home = () => {
   return (
     <>
@@ -28,7 +26,6 @@ const Home = () => {
       <Benefits imgPos="right" data={benefitTwo} />
 
       <Footer />
-      <PopupWidget />
     </>
   );
 };
